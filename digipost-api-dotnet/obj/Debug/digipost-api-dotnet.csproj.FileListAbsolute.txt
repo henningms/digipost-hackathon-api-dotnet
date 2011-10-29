@@ -1,0 +1,5 @@
+c:\users\henning\documents\visual studio 2010\Projects\digipost-api-dotnet\digipost-api-dotnet\obj\Debug\ResolveAssemblyReference.cache
+c:\users\henning\documents\visual studio 2010\Projects\digipost-api-dotnet\digipost-api-dotnet\bin\Debug\digipost-api-dotnet.dll
+c:\users\henning\documents\visual studio 2010\Projects\digipost-api-dotnet\digipost-api-dotnet\bin\Debug\digipost-api-dotnet.pdb
+c:\users\henning\documents\visual studio 2010\Projects\digipost-api-dotnet\digipost-api-dotnet\obj\Debug\digipost-api-dotnet.dll
+c:\users\henning\documents\visual studio 2010\Projects\digipost-api-dotnet\digipost-api-dotnet\obj\Debug\digipost-api-dotnet.pdb
